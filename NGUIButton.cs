@@ -9,7 +9,7 @@
 using UnityEngine;
 using System.Collections;
 
-[AddComponentMenu("LotoLabo/Event/NGUIButton")]
+[AddComponentMenu("LotosLabo/Event/NGUIButton")]
 [RequireComponent(typeof(BoxCollider))]
 public class NGUIButton : MonoBehaviour
 {
