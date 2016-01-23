@@ -1,14 +1,16 @@
-﻿/*!
- * ボタン処理クラス.
- * 
- * @file	NGUIButton.cs
- * @author	Lotos
- * @date	2015-10-23 00:05
- */
+﻿/************************************************
+NGUIButton.cs
+
+Copyright (c) 2016 LotosLabo
+
+This software is released under the MIT License.
+http://opensource.org/licenses/mit-license.php
+************************************************/
 
 using UnityEngine;
 using System.Collections;
 
+/* ボタン処理クラス. */
 [AddComponentMenu("LotoLabo/Event/NGUIButton")]
 [RequireComponent(typeof(BoxCollider))]
 public class NGUIButton : MonoBehaviour

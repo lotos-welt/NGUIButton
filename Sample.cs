@@ -1,14 +1,16 @@
-﻿/*!
- * ボタン実行サンプルクラス.
- * 
- * @file	Sample.cs
- * @author	Lotos
- * @date	2016-01-20 01:16
- */
+﻿/************************************************
+Sample.cs
+
+Copyright (c) 2016 LotosLabo
+
+This software is released under the MIT License.
+http://opensource.org/licenses/mit-license.php
+************************************************/
 
 using UnityEngine;
 using System.Collections;
 
+/* ボタン実行サンプルクラス. */
 public class Sample : MonoBehaviour
 {
     #region UI
